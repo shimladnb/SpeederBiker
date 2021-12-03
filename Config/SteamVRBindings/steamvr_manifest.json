@@ -240,10 +240,6 @@
 			"binding_url": "vive_tracker_right_shoulder.json"
 		},
 		{
-			"controller_type": "vive_tracker_left_elbow",
-			"binding_url": "vive_tracker_left_elbow.json"
-		},
-		{
 			"controller_type": "vive_tracker_right_elbow",
 			"binding_url": "vive_tracker_right_elbow.json"
 		},
@@ -270,6 +266,10 @@
 		{
 			"controller_type": "gamepad",
 			"binding_url": "gamepad.json"
+		},
+		{
+			"controller_type": "vive_tracker_left_elbow",
+			"binding_url": "vive_tracker_left_elbow.json"
 		},
 		{
 			"controller_type": "knuckles",
